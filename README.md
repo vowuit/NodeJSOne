@@ -1,2 +1,2 @@
 # NodeJSOne
-my sample node.js project one
+My sample node.js project one.
